@@ -1,0 +1,13 @@
+C:\Temp\ws-vs2019\files1_csharp\files1_csharp\bin\Debug\netcoreapp3.1\files1_csharp.exe
+C:\Temp\ws-vs2019\files1_csharp\files1_csharp\bin\Debug\netcoreapp3.1\files1_csharp.deps.json
+C:\Temp\ws-vs2019\files1_csharp\files1_csharp\bin\Debug\netcoreapp3.1\files1_csharp.runtimeconfig.json
+C:\Temp\ws-vs2019\files1_csharp\files1_csharp\bin\Debug\netcoreapp3.1\files1_csharp.runtimeconfig.dev.json
+C:\Temp\ws-vs2019\files1_csharp\files1_csharp\bin\Debug\netcoreapp3.1\files1_csharp.dll
+C:\Temp\ws-vs2019\files1_csharp\files1_csharp\bin\Debug\netcoreapp3.1\files1_csharp.pdb
+C:\Temp\ws-vs2019\files1_csharp\files1_csharp\obj\Debug\netcoreapp3.1\files1_csharp.csprojAssemblyReference.cache
+C:\Temp\ws-vs2019\files1_csharp\files1_csharp\obj\Debug\netcoreapp3.1\files1_csharp.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2019\files1_csharp\files1_csharp\obj\Debug\netcoreapp3.1\files1_csharp.AssemblyInfoInputs.cache
+C:\Temp\ws-vs2019\files1_csharp\files1_csharp\obj\Debug\netcoreapp3.1\files1_csharp.AssemblyInfo.cs
+C:\Temp\ws-vs2019\files1_csharp\files1_csharp\obj\Debug\netcoreapp3.1\files1_csharp.dll
+C:\Temp\ws-vs2019\files1_csharp\files1_csharp\obj\Debug\netcoreapp3.1\files1_csharp.pdb
+C:\Temp\ws-vs2019\files1_csharp\files1_csharp\obj\Debug\netcoreapp3.1\files1_csharp.genruntimeconfig.cache
